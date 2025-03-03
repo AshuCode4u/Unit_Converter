@@ -15,4 +15,4 @@ This is a **basic unit converter** built with **Jetpack Compose** and **Kotlin**
 
 I built this project as part of my **Android development journey**, and I will keep improving it as I **learn more and enhance my skills**.  
 
-🔗 **Stay tuned for updates!** 😊
+**Stay tuned for updates!** 😊
